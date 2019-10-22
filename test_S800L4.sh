@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python test_google_aqe.py --S 600 --L 2 --temp_dir stage2_S600L2 --dataset_name landmark --multires
